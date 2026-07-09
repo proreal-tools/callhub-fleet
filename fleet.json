@@ -1,0 +1,10 @@
+{
+  "kill_all": false,
+  "min_helper_version": 1,
+  "min_apk_version": 1,
+  "helper_zip_url": "",
+  "apk_url": "",
+  "brokers": {
+    "brk_linas": { "active": true, "note": "Linas – savininkas (testas)" }
+  }
+}

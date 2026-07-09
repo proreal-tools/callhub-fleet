@@ -3,12 +3,14 @@
   "min_helper_version": 1,
   "min_apk_version": 1,
   "helper_zip_url": "https://api.github.com/repos/proreal-tools/callhub-fleet/contents/callhub-helper.zip",
-  "apk_url": "",
+  "apk_url": "https://api.github.com/repos/proreal-tools/callhub-fleet/contents/CallHubDialer.apk",
   "brokers": {
     "brk_linas": {
       "active": true,
       "note": "Linas – savininkas (testas)"
     }
   },
-  "latest_helper_version": 3
+  "latest_helper_version": 3,
+  "latest_apk_version": 3,
+  "latest_apk_name": "3.0"
 }

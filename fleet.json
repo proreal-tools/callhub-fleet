@@ -5,6 +5,9 @@
   "helper_zip_url": "",
   "apk_url": "",
   "brokers": {
-    "brk_linas": { "active": true, "note": "Linas – savininkas (testas)" }
+    "brk_linas": {
+      "active": false,
+      "note": "Linas – savininkas (testas)"
+    }
   }
 }

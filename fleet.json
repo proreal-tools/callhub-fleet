@@ -6,7 +6,7 @@
   "apk_url": "",
   "brokers": {
     "brk_linas": {
-      "active": false,
+      "active": true,
       "note": "Linas – savininkas (testas)"
     }
   }

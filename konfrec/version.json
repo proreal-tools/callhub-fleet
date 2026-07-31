@@ -1,6 +1,6 @@
 {
- "versionCode": 27,
- "versionName": "1.26",
+ "versionCode": 28,
+ "versionName": "1.27",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.26: kortele matoma UZRAKINTAME ekrane, su garsu ir objekto nuotrauka; sklypams atsirado adresas."
+ "notes": "v1.27: programele pati parodo, kas tildo pranesima (Android 14 pilno ekrano leidimas, kanalo svarba, Netrukdyti)."
 }

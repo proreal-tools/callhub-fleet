@@ -1,6 +1,6 @@
 {
- "versionCode": 32,
- "versionName": "1.31",
+ "versionCode": 33,
+ "versionName": "1.32",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.31: kortele rodo kliento istorija — kelintas kartas, kada paskutini, kokiais objektais domejosi."
+ "notes": "v1.32: kortele rodo, KO klientas ieskojo — kambariai, biudzetas, rajonai is ankstesniu pokalbiu."
 }

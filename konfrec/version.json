@@ -1,6 +1,6 @@
 {
- "versionCode": 23,
- "versionName": "1.22",
+ "versionCode": 24,
+ "versionName": "1.23",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.22: pranesimas rodomas ir uzrakintame ekrane."
+ "notes": "v1.23: naujas pagrindinis ekranas — visi skambine klientai vienoje vietoje. KonfRec valdymas mygtuku apacioje."
 }

@@ -1,6 +1,6 @@
 {
- "versionCode": 26,
- "versionName": "1.25",
+ "versionCode": 27,
+ "versionName": "1.26",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.25: atnaujinimo mygtukas pagrindiniame ekrane; tikrinama automatiskai atidarius."
+ "notes": "v1.26: kortele matoma UZRAKINTAME ekrane, su garsu ir objekto nuotrauka; sklypams atsirado adresas."
 }

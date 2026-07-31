@@ -1,6 +1,6 @@
 {
- "versionCode": 21,
- "versionName": "1.20",
+ "versionCode": 22,
+ "versionName": "1.21",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.20: rodo, KAS skambina ir del kurio objekto, dar pries telefonui suskambant. + atsistato po perkrovimo."
+ "notes": "v1.21: rodo skambinanti klienta pries telefonui suskambant; rodomi tik svieziai (<3 min) ivykiai."
 }

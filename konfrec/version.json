@@ -1,6 +1,6 @@
 {
- "versionCode": 30,
- "versionName": "1.29",
+ "versionCode": 31,
+ "versionName": "1.30",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.29: mygtukas veda i teisinga vieta (Settings > Notifications > Lock screen notifications)."
+ "notes": "v1.30: tikrinami visi nustatymai, iskaitant du Samsung rodymo stilius (Cards / Detailed)."
 }

@@ -1,6 +1,6 @@
 {
- "versionCode": 25,
- "versionName": "1.24",
+ "versionCode": 26,
+ "versionName": "1.25",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.24: kliento kortele VIRS skambucio ekrano; nebeveluoja uzrakintame telefone; programele pati parodo, ko truksta."
+ "notes": "v1.25: atnaujinimo mygtukas pagrindiniame ekrane; tikrinama automatiskai atidarius."
 }

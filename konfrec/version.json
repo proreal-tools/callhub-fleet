@@ -1,6 +1,6 @@
 {
- "versionCode": 29,
- "versionName": "1.28",
+ "versionCode": 30,
+ "versionName": "1.29",
  "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
- "notes": "v1.28: pilnas nustatymu sarasas su busena — programele patikrina viska ir nuveda, ka reikia ijungti."
+ "notes": "v1.29: mygtukas veda i teisinga vieta (Settings > Notifications > Lock screen notifications)."
 }

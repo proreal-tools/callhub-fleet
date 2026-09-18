@@ -1,6 +1,6 @@
 {
-  "versionCode": 225,
-  "versionName": "3.24",
+  "versionCode": 226,
+  "versionName": "3.25",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.24 — 🏠 paieška nuo 1 raidės, „par nam 150“, objekto tipas, artimiausi pagal kainą"
+  "notes": "KonfRec v3.25 — 🏠 „ant just 1000-“, „p ant jus 100-300“: trumpi rajonai (ARBA), p = pirkti, 1000- = iki, perkant skaičius = iki tūkst."
 }

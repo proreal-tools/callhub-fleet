@@ -1,6 +1,6 @@
 {
-  "versionCode": 223,
-  "versionName": "3.22",
+  "versionCode": 224,
+  "versionName": "3.23",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.22 — 🏠 Kieno objektas?: gatvė + kaina pirmiausia, pasiūlymai rašant, kambarių/kainos/rajonų mygtukai, paieška kliento kortelės viduje"
+  "notes": "KonfRec v3.23 — 🏠 filtras suskleistas, kaina nuo–iki (pirkimui tūkst.), skaičiukai pagal filtrą, „laisvų nėra — yra N užimtų“"
 }

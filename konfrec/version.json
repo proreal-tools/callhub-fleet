@@ -1,6 +1,6 @@
 {
-  "versionCode": 221,
-  "versionName": "3.20",
+  "versionCode": 222,
+  "versionName": "3.21",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.20"
+  "notes": "KonfRec v3.21 — 🏠 Kieno objektas? greita paieška be ryšio + SMS klientui su atsakingo brokerio numeriu"
 }

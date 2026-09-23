@@ -1,6 +1,6 @@
 {
-  "versionCode": 253,
-  "versionName": "3.52",
+  "versionCode": 254,
+  "versionName": "3.53",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.52: 🔴 ir skambučio ekrane (be klaidingo „vaizdo skambučio“); MIDCALL kliento numeris iš ekrano eilutės Mobile …, CallLog atsarga nebeima ankstesnio kliento"
+  "notes": "KonfRec v3.53: 🔴 klientas = AKTYVAUS pokalbio numeris (arčiausiai laikmačio ekrane); laukianti antra linija ignoruojama"
 }

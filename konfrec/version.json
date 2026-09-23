@@ -1,6 +1,6 @@
 {
-  "versionCode": 254,
-  "versionName": "3.53",
+  "versionCode": 255,
+  "versionName": "3.54",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.53: 🔴 klientas = AKTYVAUS pokalbio numeris (arčiausiai laikmačio ekrane); laukianti antra linija ignoruojama"
+  "notes": "KonfRec v3.54: klientui padėjus ragelį per įrašymą — roboto koja baigiama automatiškai (endCall), įrašymas nebesisuka"
 }

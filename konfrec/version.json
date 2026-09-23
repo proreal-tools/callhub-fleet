@@ -1,6 +1,6 @@
 {
-  "versionCode": 252,
-  "versionName": "3.51",
+  "versionCode": 253,
+  "versionName": "3.52",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.51: 🔴 grįžta per GSM pokalbį KonfRec kortelėje; Linphone metu — pranešimas vietoj mygtuko"
+  "notes": "KonfRec v3.52: 🔴 ir skambučio ekrane (be klaidingo „vaizdo skambučio“); MIDCALL kliento numeris iš ekrano eilutės Mobile …, CallLog atsarga nebeima ankstesnio kliento"
 }

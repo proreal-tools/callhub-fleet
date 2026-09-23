@@ -1,6 +1,6 @@
 {
-  "versionCode": 250,
-  "versionName": "3.49",
+  "versionCode": 251,
+  "versionName": "3.50",
   "apk_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/KonfRec.apk",
-  "notes": "KonfRec v3.49"
+  "notes": "KonfRec v3.50: 🏠 pasirinktas objektas priskiriamas klientui (kaip ID suvedimas)"
 }

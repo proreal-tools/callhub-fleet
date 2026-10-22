@@ -1,10 +1,24 @@
 {
   "programeles": [
-    {"paketas": "lt.linas.konfrec", "pavadinimas": "KonfRec",
-     "version_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/version.json"},
-    {"paketas": "lt.linas.ntvaldymas", "pavadinimas": "NT valdymas",
-     "version_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/ntvaldymas/version.json"},
-    {"paketas": "com.wireguard.android", "pavadinimas": "WireGuard (VPN „Proreal“)",
-     "play": "https://play.google.com/store/apps/details?id=com.wireguard.android"}
+    {
+      "paketas": "lt.linas.konfrec",
+      "pavadinimas": "KonfRec",
+      "version_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/konfrec/version.json"
+    },
+    {
+      "paketas": "lt.linas.ntvaldymas",
+      "pavadinimas": "NT valdymas",
+      "version_url": "https://raw.githubusercontent.com/proreal-tools/callhub-fleet/main/ntvaldymas/version.json"
+    },
+    {
+      "paketas": "com.wireguard.android",
+      "pavadinimas": "WireGuard (VPN „Proreal“)",
+      "play": "https://play.google.com/store/apps/details?id=com.wireguard.android"
+    },
+    {
+      "paketas": "org.linphone",
+      "pavadinimas": "Linphone (SIP telefonas)",
+      "play": "https://play.google.com/store/apps/details?id=org.linphone"
+    }
   ]
 }
